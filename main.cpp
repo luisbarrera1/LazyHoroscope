@@ -20,6 +20,8 @@ cout<< "What is your last name? ";
 cin>> lastName;
 
 
+cout<< "wellcome, " <<firstName[0]<< "."<<lastName[0]<<". here is your fortune"; 
+
   //tell fortune
 
   return 0;
